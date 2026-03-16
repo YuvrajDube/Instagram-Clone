@@ -115,7 +115,17 @@ flutter build ios
 - Pull to refresh the feed
 - Scroll near the bottom to trigger pagination
 
-## Screens To Demo(Screenshot/ScreenRecording)
+## Screens To Demo (Screenshots & Screen Recording)
+
+### Screenshots
+
+| SS1 | SS2 | SS3 |
+|-----|-----|-----|
+| ![SS1](assets/SS1.jpeg) | ![SS2](assets/SS2.jpeg) | ![SS3](assets/SS3.jpeg) |
+
+### Screen Recording
+
+<video src="assets/SR1.mp4" controls width="320"></video>
 
 ## Current Status
 
