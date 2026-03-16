@@ -6,7 +6,7 @@ A polished Flutter recreation of the Instagram home feed with a strong focus on 
 
 Replace this placeholder after pushing the project:
 
-`https://github.com/<your-username>/<your-repo-name>`
+`https://github.com/YuvrajDube/Instagram-Clone`
 
 ## What This Project Includes
 
@@ -117,15 +117,16 @@ flutter build ios
 
 ## Screens To Demo (Screenshots & Screen Recording)
 
+### Screen Recording
+
+[▶ Watch Screen Recording](assets/SR1.mp4)
+
 ### Screenshots
 
 | SS1 | SS2 | SS3 |
 |-----|-----|-----|
 | ![SS1](assets/SS1.jpeg) | ![SS2](assets/SS2.jpeg) | ![SS3](assets/SS3.jpeg) |
 
-### Screen Recording
-
-<video src="assets/SR1.mp4" controls width="320"></video>
 
 ## Current Status
 
